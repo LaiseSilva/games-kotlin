@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="fundocard">
+        <item name="android:layout_width">250dp</item>
+        <item name="android:layout_height">280dp</item>
+        <item name="android:background">@drawable/arredondarborda</item>
+        <item name="android:layout_marginEnd">25dp</item>
+        <item name="android:backgroundTint">#424657</item>
+    </style>
+
+    <style name="iconescard">
+        <item name="android:layout_width">20dp</item>
+        <item name="android:layout_height">20dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+    </style>
+
+    <style name="buttonwatch">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">@font/turretroadextrabold</item>
+        <item name="android:backgroundTint">#FFAF29</item>
+    </style>
+</resources>
