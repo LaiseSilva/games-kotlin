@@ -166,6 +166,7 @@
 
 
                     <Button
+                        android:id="@+id/mais_informacoes"
                         style="@style/buttonwatch"
                         android:text="Watch" />
 
